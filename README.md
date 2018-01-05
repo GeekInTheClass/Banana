@@ -19,3 +19,6 @@ apple
 ![Alt text](키위.png)
 <img width="100" height="100"></img>
 키위를 먹는다구욧!?!?
+아니 안먹을건데~~~~
+![Alt text](디른데디른데.png)
+<img width="100" height="100"></img>
